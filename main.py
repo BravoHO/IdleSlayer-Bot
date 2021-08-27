@@ -3,7 +3,7 @@ import threading
 import pyautogui
 from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
-#changed
+
 delay = 0.05
 button = Button.left
 button2 = Button.right
